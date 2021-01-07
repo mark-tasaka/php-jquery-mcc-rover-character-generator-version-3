@@ -366,11 +366,11 @@ body{
     font-size: 1.2em;
 }
 
-#naturalHealingPerDay
+#roverSpecialAbility
 {
     position:absolute;
     top: 520px;
-    left: 655px;
+    left: 680px;
     font-size: 1.2em;
 }
 
