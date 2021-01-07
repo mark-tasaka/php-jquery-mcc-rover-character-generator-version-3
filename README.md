@@ -5,6 +5,11 @@
 -------------------------
 
 
+Update 1.01: 2021-01-07
+
+Updates to mccRover.php, rover.css, hitPoints.js and classDetails.php. 
+
+
 Initial commit: 2021-01-06
 
 The initial commit for the Mutant Crawl Classics Rover Character Generator Version 3.
