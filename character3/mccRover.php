@@ -383,9 +383,6 @@
        </span>
        
        
-       <span id="dieRollMethod"></span>
-
-       
        <span id="artifactCheck">
            <?php
                 if($artifactCheckBonusPlusInt == 0)
@@ -785,7 +782,6 @@
       
       
       
-      $("#dieRollMethod").html(data.dieRollMethod);
             
       $("#hitPoints").html(data.hp);
       
