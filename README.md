@@ -5,6 +5,13 @@
 -------------------------
 
 
+
+
+Update 1.02: 2021-01-08
+
+Updated mccRover.php and rover.css. 
+
+
 Update 1.01: 2021-01-07
 
 Updates to mccRover.php, rover.css, hitPoints.js and classDetails.php. 
