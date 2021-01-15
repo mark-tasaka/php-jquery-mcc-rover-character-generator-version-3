@@ -4,7 +4,17 @@
 
 -------------------------
 
+Live version of the Mutant Crawl Classics (MCC) Rover Character Generator Version 3 is found at:
 
+Artifacts of the Ancient Ones: A Mutant Crawl Classics Fan Site
+
+https://www.oldschooladventures.org/mcc/classes/rover/
+
+--------------
+
+Update 1.03: 2021-01-15
+
+MCC Rover Generator Launch Page added.
 
 
 Update 1.02: 2021-01-08
